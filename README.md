@@ -1,4 +1,4 @@
-<div align="center">   # Hi there, I'm A Yaswanth Reddy 👋 </div>
+# Hi there, I'm A Yaswanth Reddy 👋 
 
 <div align="center">
 
@@ -55,12 +55,12 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 * Java
 * Python
-* JavaScript
 * SQL
 
 ### Backend Technologies
 
 * Core Java
+* Python
 * JDBC
 * Servlets
 * Hibernate
@@ -71,13 +71,16 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 * HTML5
 * CSS3
-* React.js
-
+  
 ### Databases
 
 * MySQL
 * Oracle SQL
-
+* MongoDB
+  
+### Vector Databases
+* Pinecone
+  
 ### Core Concepts
 
 * Object-Oriented Programming
@@ -97,7 +100,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 * Eclipse IDE
 * VS Code
 * MySQL Workbench
-* Selenium
+* IntelIJ
 
 ---
 
@@ -151,6 +154,7 @@ A Machine Learning project developed to predict the likelihood of heart disease 
 * Python
 * Machine Learning Libraries
 * Data Analysis Tools
+* HTML & CSS
 
 #### What I Learned
 
@@ -178,6 +182,7 @@ An AI-powered application developed using Generative AI concepts and modern AI w
 * Python
 * Generative AI Tools
 * Prompt Engineering Techniques
+* LangChain
 
 #### What I Learned
 
@@ -195,13 +200,10 @@ My learning roadmap currently focuses on:
 * Advanced Java
 * Spring Boot Projects
 * REST APIs
-* Microservices
 * Generative AI
 * LangChain
 * Retrieval Augmented Generation (RAG)
 * Cloud Deployment
-* Docker
-* System Design
 
 ---
 
@@ -210,6 +212,7 @@ My learning roadmap currently focuses on:
 ### Microsoft
 
 Software Development Fundamentals
+Azure AI Fundamentals
 
 ### HackerRank
 
@@ -226,7 +229,6 @@ Java Skill Certification
 * Machine Learning
 * Web Development
 * Problem Solving
-* System Design
 
 ---
 
@@ -253,7 +255,7 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 
 📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com)
 
-💼 LinkedIn: Add Your LinkedIn Profile Link
+💼 LinkedIn: (https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/)
 
 🐙 GitHub: Add Your GitHub Profile Link
 
