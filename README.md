@@ -1,4 +1,4 @@
-<span>                      # Hi there, I'm A Yaswanth Reddy 👋 </span>
+<h2 align="center"># Hi there, I'm A Yaswanth Reddy 👋</h2>
 
 <div align="center">
 
