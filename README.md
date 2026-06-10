@@ -1,61 +1,268 @@
-## 👨‍💻 About Me
+# Hi there, I'm A Yaswanth Reddy 👋
 
-* 🎓 Recent Computer Science graduate (2025) from JNTUA College of Engineering
-* ☕ Passionate about Java Development, Backend Engineering, and Generative AI
-* 🌱 Currently learning Spring Boot, Microservices, and Advanced AI Concepts
-* 💡 Interested in Frontend Development, Backend Development, AI Applications, and Problem Solving
-* 🚀 Actively seeking opportunities in Java Development and Generative AI
-* 🔧 Hands-on experience with Core Java, JDBC, Servlets, MySQL, Spring Boot, Python, and React
-* 📚 Strong understanding of Object-Oriented Programming, Collections Framework, Exception Handling, Multithreading, and SQL
-* 🤖 Built projects in Web Development, Machine Learning, and Generative AI
-* 🏆 Java Skill Certificate (HackerRank) | Software Development Fundamentals (Microsoft)
+<div align="center">
 
-### 🛠️ Tech Stack
+### ☕ Java Developer | 🤖 Generative AI Enthusiast | 💻 Full Stack Learner
 
-**Languages:** Java, Python, JavaScript, SQL
+*"Turning ideas into applications through code, creativity, and continuous learning."*
 
-**Backend:** JDBC, Servlets, Hibernate, Spring, Spring Boot
+</div>
 
-**Frontend:** HTML, CSS, React
+---
 
-**Database:** MySQL, Oracle SQL
+## 🚀 About Me
 
-**Tools:** GitHub, Eclipse, MySQL Workbench, Selenium
+🎓 I am **A Yaswanth Reddy**, a Computer Science graduate (2025) from **JNTUA College of Engineering** with a strong passion for software development, backend engineering, and Generative AI.
 
-### 🚀 Projects
+I enjoy building applications that solve real-world problems and continuously challenge myself to learn modern technologies. My journey started with Java and Object-Oriented Programming and has expanded into Full Stack Development, Machine Learning, and AI-powered applications.
 
-#### 🌾 Crop Selling System
+I believe in writing clean code, understanding fundamentals deeply, and building practical solutions that create value.
 
-A web application that enables farmers to sell crops directly to buyers without middlemen.
+---
 
-* Built using Java, JDBC, Servlets, MySQL
-* User authentication and crop management
-* Dynamic database integration
+## 🌱 Currently Exploring
 
-#### ❤️ Heart Disease Prediction
-
-Machine Learning application that predicts heart disease using patient health data.
-
-* Data cleaning and preprocessing
-* Feature selection and model optimization
-* Performance evaluation and analysis
-
-#### 🤖 Generative AI Project
-
-Developed an AI-powered application using Generative AI concepts and prompt engineering.
-
-* Worked with LLMs and AI-driven workflows
-* Explored real-world AI use cases and automation
-* Focused on improving user interaction through AI
-
-### 📈 Current Focus
-
-* Data Structures & Algorithms
 * Spring Boot Development
+* Microservices Architecture
 * Generative AI Applications
-* Building Real-World Projects
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Data Structures & Algorithms
+* System Design Fundamentals
+* Cloud Technologies
 
-### 📫 Connect With Me
+---
 
-* LinkedIn: Add your LinkedIn URL
-* Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com)
+## 💡 What Drives Me
+
+✔ Building impactful software
+
+✔ Solving challenging problems
+
+✔ Learning emerging technologies
+
+✔ Continuous self-improvement
+
+✔ Contributing to innovative projects
+
+✔ Turning ideas into real-world applications
+
+---
+
+## 👨‍💻 Technical Skills
+
+### Programming Languages
+
+* Java
+* Python
+* JavaScript
+* SQL
+
+### Backend Technologies
+
+* Core Java
+* JDBC
+* Servlets
+* Hibernate
+* Spring Framework
+* Spring Boot
+
+### Frontend Technologies
+
+* HTML5
+* CSS3
+* React.js
+
+### Databases
+
+* MySQL
+* Oracle SQL
+
+### Core Concepts
+
+* Object-Oriented Programming
+* Collections Framework
+* Exception Handling
+* Multithreading
+* JDBC Connectivity
+* CRUD Operations
+* Database Design
+* Data Structures
+* Algorithms
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Eclipse IDE
+* VS Code
+* MySQL Workbench
+* Selenium
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Crop Selling System
+
+A web-based platform designed to help farmers directly sell their crops to buyers without intermediaries.
+
+#### Key Features
+
+* User Registration & Authentication
+* Farmer and Buyer Modules
+* Crop Listing Management
+* Database Integration
+* Dynamic Data Handling
+
+#### Technologies Used
+
+* Java
+* JDBC
+* Servlets
+* MySQL
+* HTML
+* CSS
+
+#### What I Learned
+
+* Backend Development
+* Database Connectivity
+* Session Management
+* CRUD Operations
+* Application Architecture
+
+---
+
+### ❤️ Heart Disease Prediction System
+
+A Machine Learning project developed to predict the likelihood of heart disease using patient health data.
+
+#### Key Features
+
+* Data Cleaning & Preprocessing
+* Feature Selection
+* Model Training
+* Prediction Analysis
+* Performance Evaluation
+
+#### Technologies Used
+
+* Python
+* Machine Learning Libraries
+* Data Analysis Tools
+
+#### What I Learned
+
+* Data Processing
+* Machine Learning Workflows
+* Model Optimization
+* Feature Engineering
+
+---
+
+### 🤖 Generative AI Project
+
+An AI-powered application developed using Generative AI concepts and modern AI workflows.
+
+#### Key Features
+
+* AI-Powered Responses
+* Prompt Engineering
+* LLM Integration
+* Intelligent User Interaction
+* Automated Information Assistance
+
+#### Technologies Used
+
+* Python
+* Generative AI Tools
+* Prompt Engineering Techniques
+
+#### What I Learned
+
+* Working with Large Language Models
+* AI Application Development
+* Context Handling
+* User Experience Enhancement
+
+---
+
+## 📈 Learning Journey
+
+My learning roadmap currently focuses on:
+
+* Advanced Java
+* Spring Boot Projects
+* REST APIs
+* Microservices
+* Generative AI
+* LangChain
+* Retrieval Augmented Generation (RAG)
+* Cloud Deployment
+* Docker
+* System Design
+
+---
+
+## 🏆 Certifications
+
+### Microsoft
+
+Software Development Fundamentals
+
+### HackerRank
+
+Java Skill Certification
+
+---
+
+## 📚 Areas of Interest
+
+* Backend Development
+* Software Engineering
+* Artificial Intelligence
+* Generative AI
+* Machine Learning
+* Web Development
+* Problem Solving
+* System Design
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities where I can contribute as a Java Developer, Software Engineer, or Generative AI Engineer while continuously learning and building innovative solutions.
+
+I am eager to work on challenging projects that allow me to strengthen my technical expertise and create meaningful impact through technology.
+
+---
+
+## 📊 GitHub Goals
+
+* Build More Real-World Projects
+* Improve Open Source Contributions
+* Strengthen DSA Skills
+* Learn Scalable System Design
+* Explore Production-Ready AI Applications
+* Share Knowledge Through Projects
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com)
+
+💼 LinkedIn: Add Your LinkedIn Profile Link
+
+🐙 GitHub: Add Your GitHub Profile Link
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
