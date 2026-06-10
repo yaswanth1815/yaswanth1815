@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### ☕ Java Developer | 🤖 Generative AI Enthusiast | 💻 Full Stack Learner
+### ☕ Java Developer | 🤖 Generative AI Enthusiast | 💻 Full Stack Developer
 
 *"Turning ideas into applications through code, creativity, and continuous learning."*
 
