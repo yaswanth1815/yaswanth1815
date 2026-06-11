@@ -46,23 +46,20 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ## 👨‍💻 Technical Skills
 
-| **Programming Languages** | **Backend Technologies** | **Frontend Technologies** |
+| **Programming Languages** | **Databases** | **Frontend Technologies** |
 |---|---|---|
-| • Java | • Core Java | • HTML5 |
-| • Python | • JDBC | • CSS3 |
-| • SQL | • Servlets | |
-| | • Hibernate | |
-| | • Spring Framework | |
-| | • Spring Boot | |
+| • Java | • MySQL | • HTML5 |
+| • Python | • Oracle SQL | • CSS3 |
+| • SQL | • MongoDB | |
 
-| **Databases** | **Vector Databases** | **Tools & Platforms** |
+| **Backend Technologies** | **Vector Databases** | **Tools & Platforms** |
 |---|---|---|
-| • MySQL | • Pinecone | • Git |
-| • Oracle SQL | | • GitHub |
-| • MongoDB | | • Eclipse IDE |
-| | | • VS Code |
-| | | • MySQL Workbench |
-| | | • IntelliJ IDEA |
+| • Core Java | • Pinecone | • Git |
+| • JDBC | | • GitHub |
+| • Servlets | | • Eclipse IDE |
+| • Hibernate | | • VS Code |
+| • Spring Framework | | • MySQL Workbench |
+| • Spring Boot | | • IntelliJ IDEA |
 
 ### Core Concepts
 * **OOP** - Object-Oriented Programming | **Collections** - Collections Framework | **Exception Handling** - Error Management
@@ -183,4 +180,9 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 *"Code. Learn. Build. Repeat."*
 
 ---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yaswanth1815&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 </div>
