@@ -91,9 +91,15 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 | • Spring Boot | | • IntelliJ IDEA |
 
 ### Core Concepts
-* **OOP** - Object-Oriented Programming | **Collections** - Collections Framework | **Exception Handling** - Error Management
-* **Multithreading** - Concurrent Programming | **JDBC** - Database Connectivity | **CRUD** - Database Operations
-* **Database Design** - Schema Design | **Data Structures** - DS & Algorithms | **Algorithms** - Problem Solving
+* **OOP** - Object-Oriented Programming |
+* **Collections** - Collections Framework |
+* **Exception Handling** - Error Management
+* **Multithreading** - Concurrent Programming |
+* **JDBC** - Database Connectivity |
+* **CRUD** - Database Operations |
+* **Database Design** - Schema Design |
+* **Data Structures** - DS & Algorithms |
+* **Algorithms** - Problem Solving
 
 ---
 
