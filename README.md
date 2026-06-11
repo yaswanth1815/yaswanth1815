@@ -13,9 +13,7 @@
 ## 🚀 About Me
 
 🎓 I am **A Yaswanth Reddy**, a Computer Science graduate (2025) from **JNTUA College of Engineering** with a strong passion for software development, backend engineering, and Generative AI.
-
 I enjoy building applications that solve real-world problems and continuously challenge myself to learn modern technologies. My journey started with Java and Object-Oriented Programming and has expanded into full-stack development, AI/ML, and cloud technologies.
-
 I believe in writing clean code, understanding fundamentals deeply, and building practical solutions that create value.
 
 ---
@@ -181,8 +179,5 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yaswanth1815&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
