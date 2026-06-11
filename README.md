@@ -156,7 +156,7 @@ A web-based platform designed to help farmers directly sell their crops to buyer
 
 ---
 
-### ❤️ Heart Disease Prediction System
+### Heart Disease Prediction System
 
 A Machine Learning project developed to predict the likelihood of heart disease using patient health data.
 
@@ -218,7 +218,7 @@ My learning roadmap currently focuses on:
 
 * Software Development Fundamentals
 * Azure AI Fundamentals
-
+  
 ### HackerRank
 
 * Java Skill Certification
@@ -240,7 +240,6 @@ My learning roadmap currently focuses on:
 ## 🎯 Career Objective
 
 Seeking opportunities where I can contribute as a **Java Developer**, **Software Engineer**, or **Generative AI Engineer** while continuously learning and building innovative solutions.
-
 I am eager to work on challenging projects that allow me to strengthen my technical expertise and create meaningful impact through technology.
 
 ---
@@ -251,18 +250,11 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 
 ---
 
-### ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### 🔝 Top Contributed Repo
 
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=yaswanth1815&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 ## 📊 GitHub Goals
 
 * Build More Real-World Projects
