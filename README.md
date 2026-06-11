@@ -24,11 +24,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanth43024@gmail.com)
 
-📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com)
-
-💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/)
-
-🐙 GitHub: [@yaswanth1815](https://github.com/yaswanth1815)
+📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com) | 💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/) | 🐙 GitHub: [@yaswanth1815](https://github.com/yaswanth1815)
 
 ---
 
@@ -50,85 +46,44 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ## 👨‍💻 Technical Skills
 
-### Programming Languages
+| **Programming Languages** | **Backend Technologies** | **Frontend Technologies** |
+|---|---|---|
+| • Java | • Core Java | • HTML5 |
+| • Python | • JDBC | • CSS3 |
+| • SQL | • Servlets | |
+| | • Hibernate | |
+| | • Spring Framework | |
+| | • Spring Boot | |
 
-* Java
-* Python
-* SQL
-
-### Backend Technologies
-
-* Core Java
-* JDBC
-* Servlets
-* Hibernate
-* Spring Framework
-* Spring Boot
-
-### Frontend Technologies
-
-* HTML5
-* CSS3
-
-### Databases
-
-* MySQL
-* Oracle SQL
-* MongoDB
-
-### Vector Databases
-
-* Pinecone
+| **Databases** | **Vector Databases** | **Tools & Platforms** |
+|---|---|---|
+| • MySQL | • Pinecone | • Git |
+| • Oracle SQL | | • GitHub |
+| • MongoDB | | • Eclipse IDE |
+| | | • VS Code |
+| | | • MySQL Workbench |
+| | | • IntelliJ IDEA |
 
 ### Core Concepts
-
-* Object-Oriented Programming
-* Collections Framework
-* Exception Handling
-* Multithreading
-* JDBC Connectivity
-* CRUD Operations
-* Database Design
-* Data Structures
-* Algorithms
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Eclipse IDE
-* VS Code
-* MySQL Workbench
-* IntelliJ IDEA
+* **OOP** - Object-Oriented Programming | **Collections** - Collections Framework | **Exception Handling** - Error Management
+* **Multithreading** - Concurrent Programming | **JDBC** - Database Connectivity | **CRUD** - Database Operations
+* **Database Design** - Schema Design | **Data Structures** - DS & Algorithms | **Algorithms** - Problem Solving
 
 ---
 
 ## 🌱 Currently Exploring
 
-* Spring Boot Development
-* Microservices Architecture
-* Generative AI Applications
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Data Structures & Algorithms
-* System Design Fundamentals
-* Cloud Technologies
+* Spring Boot Development | Microservices Architecture | Generative AI Applications
+* Large Language Models (LLMs) | Prompt Engineering | Data Structures & Algorithms
+* System Design Fundamentals | Cloud Technologies
 
 ---
 
 ## 💡 What Drives Me
 
-✔ Building impactful software
+✔ Building impactful software | ✔ Solving challenging problems | ✔ Learning emerging technologies
 
-✔ Solving challenging problems
-
-✔ Learning emerging technologies
-
-✔ Continuous self-improvement
-
-✔ Contributing to innovative projects
-
-✔ Turning ideas into real-world applications
+✔ Continuous self-improvement | ✔ Contributing to innovative projects | ✔ Turning ideas into real-world applications
 
 ---
 
@@ -140,40 +95,21 @@ A web-based platform designed to help farmers directly sell their crops to buyer
 
 **Technologies:** Java | JDBC | Servlets | MySQL | HTML | CSS
 
-**Key Features:**
-* User Registration & Authentication
-* Farmer and Buyer Modules
-* Crop Listing Management
-* Database Integration
-* Dynamic Data Handling
+**Key Features:** User Registration & Authentication | Farmer and Buyer Modules | Crop Listing Management | Database Integration | Dynamic Data Handling
 
-**What I Learned:**
-* Backend Development
-* Database Connectivity
-* Session Management
-* CRUD Operations
-* Application Architecture
+**What I Learned:** Backend Development | Database Connectivity | Session Management | CRUD Operations | Application Architecture
 
 ---
 
-### Heart Disease Prediction System
+### ❤️ Heart Disease Prediction System
 
 A Machine Learning project developed to predict the likelihood of heart disease using patient health data.
 
 **Technologies:** Python | Machine Learning | Data Analysis | HTML | CSS
 
-**Key Features:**
-* Data Cleaning & Preprocessing
-* Feature Selection
-* Model Training
-* Prediction Analysis
-* Performance Evaluation
+**Key Features:** Data Cleaning & Preprocessing | Feature Selection | Model Training | Prediction Analysis | Performance Evaluation
 
-**What I Learned:**
-* Data Processing
-* Machine Learning Workflows
-* Model Optimization
-* Feature Engineering
+**What I Learned:** Data Processing | Machine Learning Workflows | Model Optimization | Feature Engineering
 
 ---
 
@@ -183,63 +119,40 @@ An AI-powered application developed using Generative AI concepts and modern AI w
 
 **Technologies:** Python | LangChain | LLMs | Generative AI
 
-**Key Features:**
-* AI-Powered Responses
-* Prompt Engineering
-* LLM Integration
-* Intelligent User Interaction
-* Automated Information Assistance
+**Key Features:** AI-Powered Responses | Prompt Engineering | LLM Integration | Intelligent User Interaction | Automated Information Assistance
 
-**What I Learned:**
-* Working with Large Language Models
-* AI Application Development
-* Context Handling
-* User Experience Enhancement
+**What I Learned:** Working with Large Language Models | AI Application Development | Context Handling | User Experience Enhancement
 
 ---
 
 ## 📈 Learning Journey
 
-My learning roadmap currently focuses on:
-
-* Advanced Java
-* Spring Boot Projects
-* REST APIs
-* Generative AI
-* LangChain
-* Retrieval Augmented Generation (RAG)
-* Cloud Deployment
+* Advanced Java | Spring Boot Projects | REST APIs | Generative AI | LangChain
+* Retrieval Augmented Generation (RAG) | Microservices Architecture | Cloud Deployment (AWS, Render) | System Design
 
 ---
 
 ## 🏆 Certifications
 
 ### Microsoft
+* Software Development Fundamentals | Azure AI Fundamentals
 
-* Software Development Fundamentals
-* Azure AI Fundamentals
-  
 ### HackerRank
-
 * Java Skill Certification
 
 ---
 
 ## 📚 Areas of Interest
 
-* Backend Development
-* Software Engineering
-* Artificial Intelligence
-* Generative AI
-* Machine Learning
-* Web Development
-* Problem Solving
+* Backend Development | Software Engineering | Artificial Intelligence | Generative AI
+* Machine Learning | Web Development | Problem Solving | Cloud Technologies
 
 ---
 
 ## 🎯 Career Objective
 
 Seeking opportunities where I can contribute as a **Java Developer**, **Software Engineer**, or **Generative AI Engineer** while continuously learning and building innovative solutions.
+
 I am eager to work on challenging projects that allow me to strengthen my technical expertise and create meaningful impact through technology.
 
 ---
@@ -255,14 +168,11 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=yaswanth1815&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 ## 📊 GitHub Goals
 
-* Build More Real-World Projects
-* Improve Open Source Contributions
-* Strengthen DSA Skills
-* Learn Scalable System Design
-* Explore Production-Ready AI Applications
-* Share Knowledge Through Projects
+* Build More Real-World Projects | Improve Open Source Contributions | Strengthen DSA Skills
+* Learn Scalable System Design | Explore Production-Ready AI Applications | Share Knowledge Through Projects
 
 ---
 
