@@ -180,7 +180,7 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!😊
 
 *"Code. Learn. Build. Repeat."*
 
