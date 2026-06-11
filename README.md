@@ -22,11 +22,11 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ## 🌐 Socials & Connect
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanth43024@gmail.com)
+
 📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com)
 
 💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/)
-
-📱 Instagram: [@__yaswanth1105](https://instagram.com/__yaswanth1105)
 
 🐙 GitHub: [@yaswanth1815](https://github.com/yaswanth1815)
 
@@ -38,14 +38,26 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yaswanth1815&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ## 👨‍💻 Technical Skills
 
 ### Programming Languages
+
 * Java
 * Python
 * SQL
 
 ### Backend Technologies
+
 * Core Java
 * JDBC
 * Servlets
@@ -54,16 +66,22 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 * Spring Boot
 
 ### Frontend Technologies
+
 * HTML5
 * CSS3
 
 ### Databases
+
 * MySQL
 * Oracle SQL
 * MongoDB
-* Pinecone (Vector Database)
+
+### Vector Databases
+
+* Pinecone
 
 ### Core Concepts
+
 * Object-Oriented Programming
 * Collections Framework
 * Exception Handling
@@ -75,6 +93,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 * Algorithms
 
 ### Tools & Platforms
+
 * Git
 * GitHub
 * Eclipse IDE
@@ -93,7 +112,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 * Prompt Engineering
 * Data Structures & Algorithms
 * System Design Fundamentals
-* Cloud Technologies (AWS, Render)
+* Cloud Technologies
 
 ---
 
@@ -182,24 +201,26 @@ An AI-powered application developed using Generative AI concepts and modern AI w
 ## 📈 Learning Journey
 
 My learning roadmap currently focuses on:
+
 * Advanced Java
 * Spring Boot Projects
 * REST APIs
-* Generative AI & LangChain
+* Generative AI
+* LangChain
 * Retrieval Augmented Generation (RAG)
-* Microservices Architecture
-* Cloud Deployment (AWS, Render)
-* System Design
+* Cloud Deployment
 
 ---
 
 ## 🏆 Certifications
 
 ### Microsoft
+
 * Software Development Fundamentals
 * Azure AI Fundamentals
 
 ### HackerRank
+
 * Java Skill Certification
 
 ---
@@ -208,11 +229,11 @@ My learning roadmap currently focuses on:
 
 * Backend Development
 * Software Engineering
-* Artificial Intelligence & Generative AI
+* Artificial Intelligence
+* Generative AI
 * Machine Learning
 * Web Development
-* Problem Solving & Algorithms
-* Cloud Technologies
+* Problem Solving
 
 ---
 
@@ -221,14 +242,6 @@ My learning roadmap currently focuses on:
 Seeking opportunities where I can contribute as a **Java Developer**, **Software Engineer**, or **Generative AI Engineer** while continuously learning and building innovative solutions.
 
 I am eager to work on challenging projects that allow me to strengthen my technical expertise and create meaningful impact through technology.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=yaswanth1815&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -244,7 +257,7 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 
 ---
 
-### 🔝 Top Contributed Repositories
+### 🔝 Top Contributed Repo
 
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=yaswanth1815&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -252,12 +265,12 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 
 ## 📊 GitHub Goals
 
-* ✔ Build More Real-World Projects
-* ✔ Improve Open Source Contributions
-* ✔ Strengthen DSA Skills
-* ✔ Learn Scalable System Design
-* ✔ Explore Production-Ready AI Applications
-* ✔ Share Knowledge Through Projects
+* Build More Real-World Projects
+* Improve Open Source Contributions
+* Strengthen DSA Skills
+* Learn Scalable System Design
+* Explore Production-Ready AI Applications
+* Share Knowledge Through Projects
 
 ---
 
@@ -269,7 +282,7 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaswanth1815&icon=0&color=0)
+[![Profile Views](https://komarev.com/ghpvc/?username=yaswanth1815&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
