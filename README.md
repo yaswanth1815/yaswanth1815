@@ -20,6 +20,70 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ---
 
+## 🌐 Socials & Connect
+
+📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com)
+
+💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/)
+
+📱 Instagram: [@__yaswanth1105](https://instagram.com/__yaswanth1105)
+
+🐙 GitHub: [@yaswanth1815](https://github.com/yaswanth1815)
+
+---
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+---
+
+## 👨‍💻 Technical Skills
+
+### Programming Languages
+* Java
+* Python
+* SQL
+
+### Backend Technologies
+* Core Java
+* JDBC
+* Servlets
+* Hibernate
+* Spring Framework
+* Spring Boot
+
+### Frontend Technologies
+* HTML5
+* CSS3
+
+### Databases
+* MySQL
+* Oracle SQL
+* MongoDB
+* Pinecone (Vector Database)
+
+### Core Concepts
+* Object-Oriented Programming
+* Collections Framework
+* Exception Handling
+* Multithreading
+* JDBC Connectivity
+* CRUD Operations
+* Database Design
+* Data Structures
+* Algorithms
+
+### Tools & Platforms
+* Git
+* GitHub
+* Eclipse IDE
+* VS Code
+* MySQL Workbench
+* IntelliJ IDEA
+
+---
+
 ## 🌱 Currently Exploring
 
 * Spring Boot Development
@@ -29,7 +93,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 * Prompt Engineering
 * Data Structures & Algorithms
 * System Design Fundamentals
-* Cloud Technologies
+* Cloud Technologies (AWS, Render)
 
 ---
 
@@ -49,86 +113,22 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ---
 
-## 👨‍💻 Technical Skills
-
-### Programming Languages
-
-* Java
-* Python
-* SQL
-
-### Backend Technologies
-
-* Core Java
-* Python
-* JDBC
-* Servlets
-* Hibernate
-* Spring Framework
-* Spring Boot
-
-### Frontend Technologies
-
-* HTML5
-* CSS3
-  
-### Databases
-
-* MySQL
-* Oracle SQL
-* MongoDB
-  
-### Vector Databases
-* Pinecone
-  
-### Core Concepts
-
-* Object-Oriented Programming
-* Collections Framework
-* Exception Handling
-* Multithreading
-* JDBC Connectivity
-* CRUD Operations
-* Database Design
-* Data Structures
-* Algorithms
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Eclipse IDE
-* VS Code
-* MySQL Workbench
-* IntelIJ
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌾 Crop Selling System
 
 A web-based platform designed to help farmers directly sell their crops to buyers without intermediaries.
 
-#### Key Features
+**Technologies:** Java | JDBC | Servlets | MySQL | HTML | CSS
 
+**Key Features:**
 * User Registration & Authentication
 * Farmer and Buyer Modules
 * Crop Listing Management
 * Database Integration
 * Dynamic Data Handling
 
-#### Technologies Used
-
-* Java
-* JDBC
-* Servlets
-* MySQL
-* HTML
-* CSS
-
-#### What I Learned
-
+**What I Learned:**
 * Backend Development
 * Database Connectivity
 * Session Management
@@ -141,23 +141,16 @@ A web-based platform designed to help farmers directly sell their crops to buyer
 
 A Machine Learning project developed to predict the likelihood of heart disease using patient health data.
 
-#### Key Features
+**Technologies:** Python | Machine Learning | Data Analysis | HTML | CSS
 
+**Key Features:**
 * Data Cleaning & Preprocessing
 * Feature Selection
 * Model Training
 * Prediction Analysis
 * Performance Evaluation
 
-#### Technologies Used
-
-* Python
-* Machine Learning Libraries
-* Data Analysis Tools
-* HTML & CSS
-
-#### What I Learned
-
+**What I Learned:**
 * Data Processing
 * Machine Learning Workflows
 * Model Optimization
@@ -169,23 +162,16 @@ A Machine Learning project developed to predict the likelihood of heart disease 
 
 An AI-powered application developed using Generative AI concepts and modern AI workflows.
 
-#### Key Features
+**Technologies:** Python | LangChain | LLMs | Generative AI
 
+**Key Features:**
 * AI-Powered Responses
 * Prompt Engineering
 * LLM Integration
 * Intelligent User Interaction
 * Automated Information Assistance
 
-#### Technologies Used
-
-* Python
-* Generative AI Tools
-* Prompt Engineering Techniques
-* LangChain
-
-#### What I Learned
-
+**What I Learned:**
 * Working with Large Language Models
 * AI Application Development
 * Context Handling
@@ -196,27 +182,25 @@ An AI-powered application developed using Generative AI concepts and modern AI w
 ## 📈 Learning Journey
 
 My learning roadmap currently focuses on:
-
 * Advanced Java
 * Spring Boot Projects
 * REST APIs
-* Generative AI
-* LangChain
+* Generative AI & LangChain
 * Retrieval Augmented Generation (RAG)
-* Cloud Deployment
+* Microservices Architecture
+* Cloud Deployment (AWS, Render)
+* System Design
 
 ---
 
 ## 🏆 Certifications
 
 ### Microsoft
-
-Software Development Fundamentals
-Azure AI Fundamentals
+* Software Development Fundamentals
+* Azure AI Fundamentals
 
 ### HackerRank
-
-Java Skill Certification
+* Java Skill Certification
 
 ---
 
@@ -224,62 +208,56 @@ Java Skill Certification
 
 * Backend Development
 * Software Engineering
-* Artificial Intelligence
-* Generative AI
+* Artificial Intelligence & Generative AI
 * Machine Learning
 * Web Development
-* Problem Solving
+* Problem Solving & Algorithms
+* Cloud Technologies
 
 ---
 
 ## 🎯 Career Objective
 
-Seeking opportunities where I can contribute as a Java Developer, Software Engineer, or Generative AI Engineer while continuously learning and building innovative solutions.
+Seeking opportunities where I can contribute as a **Java Developer**, **Software Engineer**, or **Generative AI Engineer** while continuously learning and building innovative solutions.
 
 I am eager to work on challenging projects that allow me to strengthen my technical expertise and create meaningful impact through technology.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanth43024@gmail.com) 
+## 📊 GitHub Stats
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=yaswanth1815&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yaswanth1815&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yaswanth1815&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth1815&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yaswanth1815&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repositories
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=yaswanth1815&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ## 📊 GitHub Goals
 
-* Build More Real-World Projects
-* Improve Open Source Contributions
-* Strengthen DSA Skills
-* Learn Scalable System Design
-* Explore Production-Ready AI Applications
-* Share Knowledge Through Projects
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com)
-
-💼 LinkedIn: (https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/)
-
-🐙 GitHub: Add Your GitHub Profile Link
+* ✔ Build More Real-World Projects
+* ✔ Improve Open Source Contributions
+* ✔ Strengthen DSA Skills
+* ✔ Learn Scalable System Design
+* ✔ Explore Production-Ready AI Applications
+* ✔ Share Knowledge Through Projects
 
 ---
 
@@ -289,8 +267,10 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 
 *"Code. Learn. Build. Repeat."*
 
-</div>
+---
 
-[![](https://komarev.com/ghpvc/?username=yaswanth1815&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=yaswanth1815&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
