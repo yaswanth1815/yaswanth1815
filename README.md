@@ -183,9 +183,4 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 *"Code. Learn. Build. Repeat."*
 
 ---
-
-[![Profile Views](https://komarev.com/ghpvc/?username=yaswanth1815&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 </div>
