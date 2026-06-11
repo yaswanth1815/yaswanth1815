@@ -167,7 +167,8 @@ An AI-powered application developed using Generative AI concepts and modern AI w
 ## 🏆 Certifications
 
 ### Microsoft
-* Software Development Fundamentals | Azure AI Fundamentals
+* Software Development Fundamentals
+*  Azure AI Fundamentals
 
 ### HackerRank
 * Java Skill Certification
