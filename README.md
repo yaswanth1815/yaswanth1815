@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### ☕ Java Developer | 🤖 Generative AI Enthusiast | 💻 Full Stack Developer
+### ☕ Java Developer | 🤖 Generative AI Enthusiast | 💻 Python Developer
 
 *"Turning ideas into applications through code, creativity, and continuous learning."*
 
@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 🎓 I am **A Yaswanth Reddy**, a Computer Science graduate (2025) from **JNTUA College of Engineering** with a strong passion for software development, backend engineering, and Generative AI.
-I enjoy building applications that solve real-world problems and continuously challenge myself to learn modern technologies. My journey started with Java and Object-Oriented Programming and has expanded into full-stack development, AI/ML, and cloud technologies.
+I enjoy building applications that solve real-world problems and continuously challenge myself to learn modern technologies. My journey started with Java Python and Object-Oriented Programming and has expanded into full-stack development, AI/ML, and cloud technologies.
 I believe in writing clean code, understanding fundamentals deeply, and building practical solutions that create value.
 
 ---
