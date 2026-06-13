@@ -75,8 +75,6 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ## 👨‍💻 Technical Skills
 
-## 👨‍💻 Technical Skills
-
 | **Programming Languages** | **Databases** | **Frontend Technologies** |
 |---|---|---|
 | • Java | • MySQL | • HTML5 |
@@ -93,17 +91,17 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 | • Spring Boot | | • MySQL Workbench |
 | | | • Jupyter Notebook |
 
-| **Generative AI & LLMs** | **Data Analysis & Machine Learning** | **Core Concepts** |
-|---|---|---|
-| • GPT | • NumPy | • OOP |
-| • LLaMA | • Pandas | • Collections Framework |
-| • LangChain | • Matplotlib | • Exception Handling |
-| • Transformers | • Seaborn | • Multithreading |
-| • RAG | • TensorFlow | • JDBC |
-| • Embeddings | • Scikit-learn | • CRUD Operations |
-| • Semantic Search | • NLP | • Database Design |
-| | • Neural Networks | • Data Structures |
-| | • Attention Mechanism | • Algorithms |
+| **Generative AI & LLMs** | **Data Analysis & Machine Learning** |
+|---|---|
+| • GPT | • NumPy |
+| • LLaMA | • Pandas |
+| • LangChain | • Matplotlib |
+| • Transformers | • Seaborn |
+| • RAG | • TensorFlow |
+| • Embeddings | • Scikit-learn |
+| • Semantic Search | • NLP |
+| | • Neural Networks |
+| | • Attention Mechanism |
 ### Core Concepts
 * **OOP** - Object-Oriented Programming
 * **Collections** - Collections Framework
