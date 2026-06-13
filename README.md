@@ -78,8 +78,6 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/yaswanth786/)
 
-### 📈 Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/yaswanth786?theme=dark&font=Baloo)
 
 ### 🏆 Contest Rating
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/yaswanth786?theme=dark&font=Baloo&ext=heatmap)
