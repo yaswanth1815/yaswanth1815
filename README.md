@@ -82,7 +82,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yaswanth786?theme=dark&font=Baloo)
 
 ### 🏆 Contest Rating
-![LeetCode Contest](https://leetcard.jacoblin.cool/yaswanth786?theme=dark&font=Baloo&ext=contest)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/yaswanth786?theme=dark&font=Baloo&ext=heatmap)
 
 ---
 ## 👨‍💻 Technical Skills
