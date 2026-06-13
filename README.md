@@ -93,11 +93,11 @@ B.Tech in Computer Science and Engineering | Jntua College of Engineering Pulive
 |---|---|---|
 | • Java | • MySQL | • HTML5 |
 | • Python | • Oracle SQL | • CSS3 |
-| • SQL | • MongoDB | |
+|  | • MongoDB | ReactJS|
 
 | **Backend Technologies** | **Vector Databases** | **Tools & Platforms** |
 |---|---|---|
-| • Core Java | • Pinecone | • Git |
+| | • Pinecone | • Git |
 | • JDBC | • ChromaDB | • GitHub |
 | • Servlets | | • Eclipse IDE |
 | • Hibernate | | • VS Code |
