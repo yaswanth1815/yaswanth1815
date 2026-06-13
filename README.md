@@ -84,21 +84,42 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 | **Backend Technologies** | **Vector Databases** | **Tools & Platforms** |
 |---|---|---|
 | • Core Java | • Pinecone | • Git |
-| • JDBC | | • GitHub |
+| • JDBC | • ChromaDB | • GitHub |
 | • Servlets | | • Eclipse IDE |
 | • Hibernate | | • VS Code |
-| • Spring Framework | | • MySQL Workbench |
-| • Spring Boot | | • IntelliJ IDEA |
+| • Spring Framework | | • IntelliJ IDEA |
+| • Spring Boot | | • MySQL Workbench |
+| | | • Jupyter Notebook |
+
+### Generative AI & LLMs
+* **GPT** - OpenAI Models
+* **LLaMA** - Meta AI Models
+* **LangChain** - LLM Application Framework
+* **Transformers** - Hugging Face Framework
+* **RAG** - Retrieval-Augmented Generation
+* **Embeddings** - Vector Representations
+* **Semantic Search** - Context-Aware Information Retrieval
+
+### Data Analysis & Machine Learning
+* **NumPy** - Numerical Computing
+* **Pandas** - Data Manipulation & Analysis
+* **Matplotlib** - Data Visualization
+* **Seaborn** - Statistical Visualization
+* **TensorFlow** - Deep Learning Framework
+* **Scikit-learn** - Machine Learning Library
+* **NLP** - Natural Language Processing
+* **Neural Networks** - Deep Learning Models
+* **Attention Mechanism** - Transformer Architecture
 
 ### Core Concepts
-* **OOP** - Object-Oriented Programming |
-* **Collections** - Collections Framework |
+* **OOP** - Object-Oriented Programming
+* **Collections** - Collections Framework
 * **Exception Handling** - Error Management
-* **Multithreading** - Concurrent Programming |
-* **JDBC** - Database Connectivity |
-* **CRUD** - Database Operations |
-* **Database Design** - Schema Design |
-* **Data Structures** - DS & Algorithms |
+* **Multithreading** - Concurrent Programming
+* **JDBC** - Database Connectivity
+* **CRUD** - Database Operations
+* **Database Design** - Schema Design
+* **Data Structures** - DS & Algorithms
 * **Algorithms** - Problem Solving
 
 ---
