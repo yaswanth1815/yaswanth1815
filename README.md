@@ -252,9 +252,11 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 ## 🌐 Socials & Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanth43024@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/yaswanth1815)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/)
+
+[![Email](https://img.shields.io/badge/Email-yaswanth43024%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:yaswanth43024@gmail.com)
+![Phone](https://img.shields.io/badge/Phone-%2B91%207671898387-green)
 
 ---
 
