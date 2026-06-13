@@ -112,6 +112,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 | • Semantic Search | • NLP |
 | | • Neural Networks |
 | | • Attention Mechanism |
+
 ### Core Concepts
 * **OOP** - Object-Oriented Programming
 * **Collections** - Collections Framework
@@ -145,7 +146,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ### 🌾 Crop Selling System
 
-A web-based platform designed to help farmers directly sell their crops to buyers without intermediaries.
+A web-based platform designed to help farmers directly sell their crops to buyers.
 
 **Technologies:** Java | JDBC | Servlets | MySQL | HTML | CSS
 
@@ -218,8 +219,10 @@ A comprehensive hostel management application designed to streamline hostel oper
 
 ## 📚 Areas of Interest
 
-* Frontend Development | Backend Development | Software Engineering | Artificial Intelligence | Generative AI
+* Frontend Development | Backend Development | Software Engineering | Java Development
+*  Python Development | Artificial Intelligence | Generative AI
 * Machine Learning | Web Development | Problem Solving | Cloud Technologies
+  
 
 ---
 
