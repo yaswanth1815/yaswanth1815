@@ -74,7 +74,15 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanth1815&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 🧩 LeetCode Profile
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/yaswanth786/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yaswanth786?theme=dark&font=Baloo&ext=contest)
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/yaswanth786?theme=dark&font=Baloo&ext=heatmap)
+
+---
 ## 👨‍💻 Technical Skills
 
 | **Programming Languages** | **Databases** | **Frontend Technologies** |
