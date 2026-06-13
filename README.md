@@ -20,9 +20,16 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 
 ## 🌐 Socials & Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105) [![email](https://img.shields.io/badge/Email-D14836?logo=g[...]
+## 🌐 Socials & Connect
 
-📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com) | 💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/) | 🐙 GitHub: [@yaswanth1815](ht[...]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanth43024@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/yaswanth1815)
+
+📧 **Email:** [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com)  
+💼 **LinkedIn:** [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/)  
+🐙 **GitHub:** [@yaswanth1815](https://github.com/yaswanth1815)
 
 ---
 
