@@ -1,7 +1,6 @@
 <h2 align="center"># Hi there, I'm A Yaswanth Reddy 👋</h2>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth1815&layout=compact&langs_count=10&exclude_repo=<repo1,repo2>)
 ### ☕ Java Developer | 🤖 Generative AI Enthusiast | 💻 Python Developer
 
 *"Turning ideas into applications through code, creativity, and continuous learning."*
