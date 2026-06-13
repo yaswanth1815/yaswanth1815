@@ -13,16 +13,16 @@
 ## 🚀 About Me
 
 🎓 I am **A Yaswanth Reddy**, a Computer Science graduate (2025) from **JNTUA College of Engineering** with a strong passion for software development, backend engineering, and Generative AI.
-I enjoy building applications that solve real-world problems and continuously challenge myself to learn modern technologies. My journey started with Java Python and Object-Oriented Programming and has expanded into full-stack development, AI/ML, and cloud technologies.
+I enjoy building applications that solve real-world problems and continuously challenge myself to learn modern technologies. My journey started with Java Python and Object-Oriented Programming and[...]
 I believe in writing clean code, understanding fundamentals deeply, and building practical solutions that create value.
 
 ---
 
 ## 🌐 Socials & Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanth43024@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105) [![email](https://img.shields.io/badge/Email-D14836?logo=g[...]
 
-📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com) | 💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/) | 🐙 GitHub: [@yaswanth1815](https://github.com/yaswanth1815)
+📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com) | 💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/) | 🐙 GitHub: [@yaswanth1815](ht[...]
 
 ---
 
@@ -42,7 +42,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
@@ -169,6 +169,18 @@ An AI-powered application developed using Generative AI concepts and modern AI w
 
 ---
 
+### 🏨 Hostel Management System
+
+A comprehensive hostel management application designed to streamline hostel operations and student accommodations.
+
+**Technologies:** Python | HTML | JavaScript | CSS
+
+**Key Features:** Student Registration & Management | Room Allocation | Check-in/Check-out Operations | Billing & Payment Processing | Database Integration | User-Friendly Interface
+
+**What I Learned:** Full-Stack Web Development | Database Design | User Interface Development | System Management | Scalable Application Architecture
+
+---
+
 ## 📈 Learning Journey
 
 * Advanced Java | Spring Boot Projects | REST APIs | Generative AI | LangChain
@@ -222,9 +234,9 @@ I am eager to work on challenging projects that allow me to strengthen my techni
 ---
 ## 🌐 Socials & Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanth43024@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__yaswanth1105) [![email](https://img.shields.io/badge/Email-D14836?logo=[...]
 
-📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com) | 💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/) | 🐙 GitHub: [@yaswanth1815](https://github.com/yaswanth1815)
+📧 Email: [yaswanth43024@gmail.com](mailto:yaswanth43024@gmail.com) | 💼 LinkedIn: [A Yaswanth Reddy](https://www.linkedin.com/in/a-yaswanth-reddy-4758732b8/) | 🐙 GitHub: [@yaswanth1815](h[...]
 
 ---
 
