@@ -201,8 +201,8 @@ A comprehensive hostel management application designed to streamline hostel oper
 ## 🏆 Certifications
 
 ### Microsoft
-* Software Development Fundamentals
-*  Azure AI Fundamentals
+- ✅ [Software Development Fundamentals](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=129&cvid=xaEde9lsFA0w5lKu32sW8w%3D%3D&psize=2)
+- ✅ [Azure AI Fundamentals](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=455&cvid=Lk4N5u3Yyo6c8ZLg5W3d6Q==)
 
 ### HackerRank
 * Java Skill Certification
