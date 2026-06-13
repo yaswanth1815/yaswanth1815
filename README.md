@@ -196,12 +196,19 @@ A comprehensive hostel management application designed to streamline hostel oper
 
 ### HackerRank
 * Java Skill Certification
+* Python Skill Certification
+
+### EDX
+* CSX0003: Algorithms: Design and Analysis, Part 1
+* RH066x: Fundamentals of Red Hat Enterprise Linux 9
+* PY0101EN: Python Basics for Data Science
+* ML0101EN: Machine Learning with Python: A Practical Introduction
 
 ---
 
 ## 📚 Areas of Interest
 
-* Backend Development | Software Engineering | Artificial Intelligence | Generative AI
+* Frontend Development | Backend Development | Software Engineering | Artificial Intelligence | Generative AI
 * Machine Learning | Web Development | Problem Solving | Cloud Technologies
 
 ---
