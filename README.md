@@ -18,6 +18,7 @@ I believe in writing clean code, understanding fundamentals deeply, and building
 ---
 ## 🎓 Education
 B.Tech in Computer Science and Engineering | Jntua College of Engineering Pulivendula | 2021–2025
+
 ---
 
 ## 🌐 Socials & Connect
