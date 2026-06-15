@@ -1,4 +1,4 @@
-<h2 align="center"># Hi there, I'm A Yaswanth Reddy    👋</h2>
+<h2 align="center"># Hi there, I'm A Yaswanth Reddy 👋</h2>
 
 <div align="center">
 ☕ Java Developer | 🤖 Generative AI Enthusiast | 💻 Python Developer
