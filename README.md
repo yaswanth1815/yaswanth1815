@@ -3,7 +3,7 @@
 <div align="center">
 ☕ Java Developer | 🤖 Generative AI Enthusiast | 💻 Python Developer
 
-*"Turning the ideas into applications through code, creativity, and continuous learning."*
+*"Turning ideas into applications through code, creativity, and continuous learning."*
 
 </div>
 
