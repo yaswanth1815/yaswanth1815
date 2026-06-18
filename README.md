@@ -93,7 +93,7 @@ B.Tech in Computer Science and Engineering | Jntua College of Engineering Pulive
 |---|---|---|
 | • Java | • MySQL | • HTML5 |
 | • Python | • Oracle SQL | • CSS3 |
-| • JavaScript | • MongoDB | ReactJS|
+| • JavaScript | • MongoDB | •ReactJS|
 
 | **Backend Technologies** | **Vector Databases** | **Tools & Platforms** |
 |---|---|---|
